@@ -8,7 +8,7 @@
 
 password = "admin123"
 api_key = "sk-secret-key-12345"
-db_password = "root123"
+# db_password = "root123"
 
 def get_user(user_id):
     query = "SELECT * FROM users WHERE id = " + user_id
