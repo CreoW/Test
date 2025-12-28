@@ -7,7 +7,7 @@
 # Bad code for testing CreoGuard
 
 password = "admin123"
-# api_key = "sk-secret-key-12345"
+api_key = "sk-secret-key-12345"
 # db_password = "root123"
 
 def get_user(user_id):
